@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: The character finds a talking squirrel, but treats it with cruelty, and is cursed by a goddess.
 
 ## Final Checklist
 
