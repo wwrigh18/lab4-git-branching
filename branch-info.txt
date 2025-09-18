@@ -10,10 +10,20 @@ Branches in this repo (with details):
     c631cfb | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-09-18T14:35:21-04:00 | Added a center path.
     9223bd8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:00:37Z | Auto-update branch-info.txt
 - main
-  SHA: 26a48df7204ee08735403de6482aff21b3df6e39
-  Commits: 4
+  SHA: c217c8747d1b0810b796246cc00657913c0155fe
+  Commits: 5
   Recent commits:
+    c217c87 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:44:08Z | Auto-update branch-info.txt
     26a48df | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:43:01Z | Auto-update branch-info.txt
     c631cfb | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-09-18T14:35:21-04:00 | Added a center path.
     9223bd8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:00:37Z | Auto-update branch-info.txt
     a1624e5 | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T14:00:27-04:00 | Initial commit
+- villain-path
+  SHA: 1a11b4b68f74b5a84047ec3c9a07af32cec9a70d
+  Commits: 8
+  Recent commits:
+    1a11b4b | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-09-18T18:50:40Z | Added right path description to README
+    fbe16fe | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-09-18T18:49:10Z | Added a goddess to the right path, and a curse to the character.
+    8009b7c | Author: William Wright <162603673+wwrigh18@users.noreply.github.com> | Committer: William Wright <162603673+wwrigh18@users.noreply.github.com> | Date: 2025-09-18T18:47:08Z | Added text to right path
+    c217c87 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:44:08Z | Auto-update branch-info.txt
+    26a48df | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:43:01Z | Auto-update branch-info.txt
