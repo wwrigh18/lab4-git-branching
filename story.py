@@ -16,6 +16,8 @@ def left_path():
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
     print("You don't hesitate, striding forward and kicking the rodent into the brush.")
+    print("In the light of the sun, a goddess appears, rage splayed over her face.")
+    print("This was a test, and you have failed. The goddess curses you for your cruelty.")
 
 def center_path():
     print("You walk forward and discover the crumbing entrance to a dark, foreboding dungeon.")
